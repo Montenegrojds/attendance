@@ -1,0 +1,8 @@
+# Binary
+attendance
+
+# Environment variables
+.env
+
+# OS
+.DS_Store
