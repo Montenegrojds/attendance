@@ -1,0 +1,12 @@
+# Binary
+attendance
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+*.sqlite
+
+# OS
+.DS_Store
